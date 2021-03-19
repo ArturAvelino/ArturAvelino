@@ -13,7 +13,7 @@
   <em>
     This is ME, Artur Avelino, graduated Business Administrator from Federal University of Rio Grande do Norte and a Data Science Enthusiast. <b>
     <br> I was saved by data science when I couldn't see which way I wanted to go. 
-    <br> Now I'm obsessed with the idea of improving myself in the area and being able to successfully migrate from a career.
+    <br> Now I'm obsessed with the idea of improving myself in the area and being able to successfully migrate my career.
     
   </em> 
   <br>
