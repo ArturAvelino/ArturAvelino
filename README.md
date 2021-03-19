@@ -36,10 +36,10 @@
 <b>Pickle</b><br>
 
 
-Here are some ideas to get you started:
+Here are some updates on my goals:
 
 - ✔ I’m currently working on migrate to Data Science
 - ✔ I’m currently learning Power BI
 - ✔ I'm looking to collaborate with a company that inspires me every day
-- ✔ Pronouns: ***He/His***
+- ✔ Pronouns: ***He/His***<br>
 -->
