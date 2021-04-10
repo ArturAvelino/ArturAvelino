@@ -26,6 +26,7 @@
   
 <b>Python</b><br>
 <b>MySQL</b><br>
+<b>Power BI</b><br>
 <b>Jupyter Notebook</b><br>
 <b>Pandas</b><br>
 <b>Sklearn</b><br>
@@ -39,7 +40,7 @@
 Here are some updates on my goals:
 
 - ✔ I’m currently working on migrate to Data Science
-- ✔ I’m currently learning Power BI
+- ✔ I’m currently learning Spark
 - ✔ I'm looking to collaborate with a company that inspires me every day
 - ✔ Pronouns: ***He/His***<br>
 -->
