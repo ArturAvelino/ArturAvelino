@@ -24,7 +24,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Languages, Tools and main Libraries I Know...**
 <p align="left">
 
-<b>HTML</b><be>
+<b>HTML</b><br>
 <b>CSS</b><br>
 <b>Python</b><br>
 <b>MySQL</b><br>
