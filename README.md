@@ -41,8 +41,8 @@
 
 Here are some updates on my goals:
 
-- ✔ I’m currently working on migrate to Data Science
-- ✔ I’m currently learning Spark
-- ✔ I'm looking to collaborate with a company that inspires me every day
+- ✔ I’m currently working on migrate to Data Science or Software Development
+- ✔ I’m currently learning JS
+- ✔ I'm looking to collaborate with a company that challenges me everyday
 - ✔ Pronouns: ***He/His***<br>
 -->
